@@ -1,0 +1,4 @@
+# Ignore heavy data files
+data/sales.csv
+data/purchases.csv
+data/inventory.db
