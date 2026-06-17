@@ -15,7 +15,7 @@ This project delivers an end-to-end data analytics pipeline designed to monitor 
 Below is the comprehensive executive view of the Vendor Performance Dashboard:
 
 <!-- NOTE: Create an 'images' folder in your repository and upload your screenshot named as dashboard.jpg -->
-![Vendor Performance Dashboard](images/dashboard.jpg)
+![Vendor Performance Dashboard](dashboard.jpg)
 
 ---
 
